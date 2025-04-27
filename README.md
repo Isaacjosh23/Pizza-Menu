@@ -13,22 +13,22 @@ Explore different pizzas, see availability, and experience a dynamic restaurant 
  - CSS
 
 ✨ Features
-Display a list of delicious pizzas
+ - Display a list of delicious pizzas
 
-Show real-time pizza availability (sold-out indicator)
+ - Show real-time pizza availability (sold-out indicator)
 
-Responsive design for desktop
+ - Responsive design for desktop
 
-Clean and minimal user interface
+ - Clean and minimal user interface
 
 🚀 Getting Started
-Installation
-Clone the repository:
+ - Installation
+ - Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Isaacjosh23/Pizza-Menu.git
+ - bash
+ - Copy
+ - Edit
+ - git clone https://github.com/Isaacjosh23/Pizza-Menu.git
 Navigate into the project directory:
 
 bash
@@ -47,8 +47,6 @@ bash
 Copy
 Edit
 npm start
-📸 Preview
-(Suggest adding a screenshot here showing how the app looks)
 
 🤝 Contributions
 Feel free to fork, improve, and make a pull request! 🚀
